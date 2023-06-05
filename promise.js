@@ -34,4 +34,4 @@ function frndz(){
 }
 frndz().then(()=>console.log("i have reached"))
      .catch(()=>console.log("not yet reached"));
-
+let a=1;
